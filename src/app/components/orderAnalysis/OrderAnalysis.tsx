@@ -9,7 +9,7 @@ import Graph from './Graph'; // Assuming Graph is in the same directory
 
 export default function orderAnalysis() {
   return (
-   <section className="bg-[#fafafa] p-4 md:p-12 mb-50">
+   <section className="bg-[#fafafa] p-4 md:p-12 md:mb-40 sm:mb-20">
 
      
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6 md:mx-15">

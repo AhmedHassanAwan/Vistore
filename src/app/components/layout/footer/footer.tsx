@@ -25,7 +25,7 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="font-semibold mb-5">Career</h4>
-            <ul className="space-y-4">
+            <ul className="space-y-3 md:space-y-4">
               <li>Jobs</li>
               <li>New</li>
               <li>Hiring</li>
@@ -50,11 +50,10 @@ export default function Footer() {
                   width={40}
                   height={40}
                 />
-          {/* <img src="/logo.svg" alt="Vistore Logo" className="w-6 h-6" /> */}
           <span className="font-semibold text-sm">Vistore.</span>
         </div>
 
-        <div className="flex flex-wrap items-center  text-sm md:justify-center text-black gap-20">
+        <div className="flex flex-wrap gap-4 items-center  text-sm md:justify-center text-black  md:gap-10">
           <button className="border px-4 py-1 rounded-full">Home</button>
           <span>About Us</span>
           <span>About Us</span>

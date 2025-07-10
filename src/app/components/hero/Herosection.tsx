@@ -33,7 +33,7 @@ export default function HeroSection() {
     alt="Dashboard preview"
     width={1000}
     height={600}
-    className="rounded-t-4xl object-cover shadow-md"
+    className=" md:rounded-t-4xl object-cover shadow-md sm:rounded-t-2xl "
     priority/>
 </div>
 
