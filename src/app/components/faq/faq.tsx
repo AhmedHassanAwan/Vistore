@@ -11,7 +11,8 @@ export default function CRMSalesFAQs() {
   };
 
   return (
-    <section className="min-h-screen bg-white px-4 py-20 md:px-20 md:mx-30 rounded-4xl md:mt-25">
+    <section className=" bg-white px-4 py-20 md:px-7 md:py-4    md:mx-30 rounded-4xl md:mt-20">
+
       <div className="max-w-4xl mx-auto text-center space-y-6">
         <p className="text-sm text-black font-bold">• Our FAQs</p>
         <h1 className="text-3xl md:text-5xl font-bold text-gray-900">CRM Sales FAQs</h1>

@@ -6,7 +6,7 @@ import Graph from './Graphbar';
 
 export default function Orderfeatures() {
   return (
-    <section className="min-h-screen bg-white px-4 py-10 md:px-12 md:py-16">
+    <section className=" bg-white px-4 py-10 md:px-12 md:py-16">
       {/* Header Text */}
 
           <p className="text-sm text-gray-700 font-bold mb-2 md:ml-20 ">● Order Features</p>
@@ -70,7 +70,7 @@ export default function Orderfeatures() {
             </div>
           </div>
 
-          
+
           {/* grap  */}
 
           <Graph/>
